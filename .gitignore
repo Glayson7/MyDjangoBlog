@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+*.egg
+
+# Ambiente Virtual
+BlogVenv/
+
+# IDE
+.idea/
+.vscode/
+
+# Outros
+.DS_Store
+
